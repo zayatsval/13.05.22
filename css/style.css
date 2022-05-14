@@ -481,9 +481,7 @@ span {
 
 .article {}
 .article__title {}
-.article__title:hover {
-	text-decoration: underline;
-}
+
 .article__description {}
 .article__text {}
 
